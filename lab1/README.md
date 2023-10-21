@@ -1,3 +1,11 @@
+# Biến và kiểu dữ liệu - Toán tử và nhập xuất
+
+## Mục tiêu
+   - Nắm vững các kiểu dữ liệu
+   - Biết khai báo và khởi tạo giá trị biến
+   - Nắm vững các loại toán tử và toán tử
+   - Sử dụng thành thạo các câu lệnh nhập xuất dữ liệu.
+
 ## Bài 1:
 
 Viết chương trình nhập vào một số nguyên và in ra bình phương số nguyên đó
