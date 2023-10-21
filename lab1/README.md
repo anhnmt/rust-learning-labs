@@ -1,4 +1,4 @@
-# Biến và kiểu dữ liệu - Toán tử và nhập xuất
+# Lab 1: Biến và kiểu dữ liệu - Toán tử và nhập xuất
 
 ## Mục tiêu
    - Nắm vững các kiểu dữ liệu
