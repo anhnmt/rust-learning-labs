@@ -6,7 +6,9 @@ fn main() {
     print!("Nhap ban kinh hinh tron = ");
     let _ = std::io::stdout().flush();
 
-    std::io::stdin().read_line(&mut input).expect("Khong doc duoc");
+    if let Err(_) = std::io::stdin().read_line(&mut input) {
+        println!("Khong doc duoc");
+    }
 
     let r: f64 = input.trim().parse().expect("Khong phai so nguyen");
 
