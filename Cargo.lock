@@ -11,5 +11,9 @@ name = "lab1_tl2"
 version = "0.1.0"
 
 [[package]]
+name = "lab1_tl3"
+version = "0.1.0"
+
+[[package]]
 name = "rust-example-labs"
 version = "0.1.0"
