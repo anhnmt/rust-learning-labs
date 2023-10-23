@@ -1,4 +1,4 @@
-# rust-example-labs
+# rust-learning-labs
 
 Project này được tạo khi mình bỗng dưng nổi hứng học Rust và tìm lại mấy bài tập cũ lúc còn học ở Aptech 😂. 
 
